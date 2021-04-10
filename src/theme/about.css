@@ -1,0 +1,29 @@
+#logoClub {
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#version {
+    font-size: 17px;
+    text-align: center;
+    color: gray;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#titulo {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin: 20px auto 0;
+}
+
+#about {
+    font-size: 17px;
+    text-align: justify;
+    display: block;
+    margin: 20px auto 0;
+}

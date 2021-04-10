@@ -1,0 +1,8 @@
+﻿.imgVistaPrevia {
+    height: 64px;
+    order: 1;
+}
+
+#vistaPrevia {
+    --padding-top: -75px;
+}

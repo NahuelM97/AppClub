@@ -1,0 +1,13 @@
+﻿#textoJugadores {
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: center;
+    display: block;
+}
+
+.botonJugadores {
+    display: block;
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+}

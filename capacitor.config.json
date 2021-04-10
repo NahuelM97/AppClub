@@ -1,0 +1,6 @@
+{
+  "appId": "com.unmdpfi.appclub",
+  "appName": "AppClub",
+  "webDir": "build",
+  "npmClient": "npm"
+}

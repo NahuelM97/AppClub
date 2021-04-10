@@ -1,0 +1,13 @@
+﻿.vistaJugador .native-input.sc-ion-input-md[type = "text"] {
+    text-align:end;
+}
+.vistaJugador .native-input.sc-ion-input-md {
+    font-size: 20px;
+}
+.vistaJugador ion-datetime {
+    font-size: 20px;
+}
+.vistaJugador .botonJugador {
+    display: block;
+}
+

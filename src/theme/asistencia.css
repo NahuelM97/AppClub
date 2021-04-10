@@ -1,0 +1,28 @@
+#boton {
+    display: block;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 150px;
+    height: 100px;
+}
+
+#textoJugadores {
+    margin-top: 20px;
+    font-size: 30px;
+    text-align: center;
+    display: block;
+}
+
+.botonJugadores {
+    display: block;
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.botonJugador {
+    display: block;
+    /*width: 160px;*/
+}

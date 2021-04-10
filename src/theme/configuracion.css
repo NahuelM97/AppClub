@@ -1,0 +1,49 @@
+.label-login {
+    font-size: 25px;
+}
+
+.label-login-warning {
+    color: red;
+    font-size: 25px;
+}
+
+.label-modal {
+    font-size: 20px;
+}
+
+.label-modal-warning {
+    font-size: 20px;
+    color: red;
+}
+
+.warning {
+    display: block;
+    font-weight: bolder;
+    text-align: center;
+    margin: 25px auto 0;
+}
+
+#verPas {
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    margin: 20px auto 0;
+}
+
+.botLog {
+    display: block;
+    margin-top: 40px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.regError {
+    display: block;
+    color: red;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+.esconder {
+    display: none;
+}
